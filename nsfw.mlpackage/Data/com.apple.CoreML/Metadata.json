@@ -1,0 +1,6 @@
+{
+  "MLModelVersionStringKey" : "0.0.1",
+  "MLModelDescriptionKey" : "nsfw classifier",
+  "MLModelAuthorKey" : "evanwashere",
+  "MLModelLicenseKey" : "Apache License 2.0"
+}
